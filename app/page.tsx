@@ -73,9 +73,9 @@ export default function ProfessionalPortfolio() {
   }
 
   const testimonials = [
-    { name: "Dr. Sarah Wanjiku", role: "Political Science Professor, UoN", text: "Exceptional analytical skills and deep understanding of Kenya's political landscape. A must-read for anyone in public policy.", rating: 5, image: "/images/imge1.jpg" },
-    { name: "James Mwangi", role: "CEO, Equity Group", text: "His insights on governance have directly influenced our corporate strategy. Brilliant mind with practical solutions.", rating: 5, image: "/images/me2.jpg" },
-    { name: "Hon. Martha Karua", role: "Former Minister of Justice", text: "One of the most articulate political analysts I've encountered. His work on devolution is particularly impressive.", rating: 5, image: "/images/imge1.jpg" }
+    { name: "Dr. Sarah Wanjiku", role: "Political Science Professor, Moi  University", text: "Exceptional analytical skills and deep understanding of Kenya's political landscape. A must-read for anyone in public policy.", rating: 5, image: "/images/imge1.jpg" },
+    { name: "James Mwangi", role: "CEO, Muranga Political Group", text: "His insights on governance have directly influenced our corporate strategy. Brilliant mind with practical solutions.", rating: 5, image: "/images/me2.jpg" },
+    { name: "Hon. Wajiku karuga", role: "Former Minister of Justice", text: "One of the most articulate political analysts I've encountered. His work on devolution is particularly impressive.", rating: 5, image: "/images/imge1.jpg" }
   ]
 
   const recentVideos = [
